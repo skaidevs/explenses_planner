@@ -24,7 +24,7 @@ class ChartBar extends StatelessWidget {
             children: <Widget>[
               Container(
                 decoration: BoxDecoration(
-                  border: Border.all(width: 1.0, color: Colors.green),
+                  border: Border.all(width: 1.0, color: Colors.grey),
                   color: Color.fromARGB(220, 220, 220, 1),
                   borderRadius: BorderRadius.circular(10.0),
                 ),
